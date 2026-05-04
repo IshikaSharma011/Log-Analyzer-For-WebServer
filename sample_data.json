@@ -1,0 +1,204 @@
+{
+  "logs": [
+    {
+      "timestamp": "2026-04-20 09:10:12",
+      "user_id": "user_101",
+      "action": "search",
+      "query": "gaming laptop",
+      "category": "Electronics",
+      "product_id": "P1001",
+      "product_name": "NeonByte Gaming Laptop",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-20 09:12:33",
+      "user_id": "user_101",
+      "action": "view",
+      "query": "",
+      "category": "Electronics",
+      "product_id": "P1001",
+      "product_name": "NeonByte Gaming Laptop",
+      "duration_seconds": 185
+    },
+    {
+      "timestamp": "2026-04-20 09:18:44",
+      "user_id": "user_101",
+      "action": "watch",
+      "query": "",
+      "category": "Electronics",
+      "product_id": "P1002",
+      "product_name": "PixelStorm 4K Monitor Demo",
+      "duration_seconds": 240
+    },
+    {
+      "timestamp": "2026-04-20 09:22:09",
+      "user_id": "user_101",
+      "action": "wishlist",
+      "query": "",
+      "category": "Electronics",
+      "product_id": "P1003",
+      "product_name": "MechaKey RGB Keyboard",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-21 15:05:11",
+      "user_id": "user_101",
+      "action": "search",
+      "query": "wireless headphones",
+      "category": "Audio",
+      "product_id": "P2001",
+      "product_name": "BassForge Wireless Headphones",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-21 15:08:26",
+      "user_id": "user_101",
+      "action": "view",
+      "query": "",
+      "category": "Audio",
+      "product_id": "P2001",
+      "product_name": "BassForge Wireless Headphones",
+      "duration_seconds": 145
+    },
+    {
+      "timestamp": "2026-04-22 10:00:01",
+      "user_id": "user_102",
+      "action": "search",
+      "query": "running shoes",
+      "category": "Sports",
+      "product_id": "P3001",
+      "product_name": "FlashRun Pro Shoes",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-22 10:03:19",
+      "user_id": "user_102",
+      "action": "view",
+      "query": "",
+      "category": "Sports",
+      "product_id": "P3001",
+      "product_name": "FlashRun Pro Shoes",
+      "duration_seconds": 210
+    },
+    {
+      "timestamp": "2026-04-22 10:08:45",
+      "user_id": "user_102",
+      "action": "watch",
+      "query": "",
+      "category": "Sports",
+      "product_id": "P3002",
+      "product_name": "Marathon Training Guide",
+      "duration_seconds": 410
+    },
+    {
+      "timestamp": "2026-04-22 10:12:38",
+      "user_id": "user_102",
+      "action": "wishlist",
+      "query": "",
+      "category": "Sports",
+      "product_id": "P3003",
+      "product_name": "HydroTrack Smart Bottle",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-23 18:20:17",
+      "user_id": "user_102",
+      "action": "search",
+      "query": "fitness tracker",
+      "category": "Wearables",
+      "product_id": "P4001",
+      "product_name": "PulseLoop Fitness Tracker",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-23 18:23:55",
+      "user_id": "user_102",
+      "action": "view",
+      "query": "",
+      "category": "Wearables",
+      "product_id": "P4001",
+      "product_name": "PulseLoop Fitness Tracker",
+      "duration_seconds": 160
+    },
+    {
+      "timestamp": "2026-04-24 11:30:10",
+      "user_id": "user_103",
+      "action": "search",
+      "query": "coffee maker",
+      "category": "Home Appliances",
+      "product_id": "P5001",
+      "product_name": "BrewMaster Coffee Maker",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-24 11:33:52",
+      "user_id": "user_103",
+      "action": "view",
+      "query": "",
+      "category": "Home Appliances",
+      "product_id": "P5001",
+      "product_name": "BrewMaster Coffee Maker",
+      "duration_seconds": 230
+    },
+    {
+      "timestamp": "2026-04-24 11:36:40",
+      "user_id": "user_103",
+      "action": "wishlist",
+      "query": "",
+      "category": "Home Appliances",
+      "product_id": "P5002",
+      "product_name": "AeroToast Smart Toaster",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-25 20:45:21",
+      "user_id": "user_103",
+      "action": "search",
+      "query": "smart lights",
+      "category": "Smart Home",
+      "product_id": "P6001",
+      "product_name": "GlowNest Smart Lights",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-25 20:47:44",
+      "user_id": "user_103",
+      "action": "watch",
+      "query": "",
+      "category": "Smart Home",
+      "product_id": "P6001",
+      "product_name": "GlowNest Smart Lights Setup",
+      "duration_seconds": 360
+    },
+    {
+      "timestamp": "2026-04-26 13:10:02",
+      "user_id": "user_104",
+      "action": "search",
+      "query": "gaming laptop",
+      "category": "Electronics",
+      "product_id": "P1001",
+      "product_name": "NeonByte Gaming Laptop",
+      "duration_seconds": 0
+    },
+    {
+      "timestamp": "2026-04-26 13:13:47",
+      "user_id": "user_104",
+      "action": "view",
+      "query": "",
+      "category": "Electronics",
+      "product_id": "P1003",
+      "product_name": "MechaKey RGB Keyboard",
+      "duration_seconds": 195
+    },
+    {
+      "timestamp": "2026-04-26 13:16:22",
+      "user_id": "user_104",
+      "action": "wishlist",
+      "query": "",
+      "category": "Electronics",
+      "product_id": "P1002",
+      "product_name": "PixelStorm 4K Monitor",
+      "duration_seconds": 0
+    }
+  ]
+}
